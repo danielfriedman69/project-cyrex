@@ -5,7 +5,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="ROBOTS" content="NOINDEX, FOLLOW" />
-<title>Info / YourForums</title>
+<title>Info / project-cyrex</title>
 <link rel="stylesheet" type="text/css" href="style/Cobalt.css" />
 
 <style type="text/css">.gid1 {color: #b4e61e; font-weight: bold} .gid2 {color: #ff9933; font-weight: bold} .gid5 {color: #e61515; font-weight: bold} </style>
@@ -37,8 +37,8 @@
 <div id="brdheader" class="block">
 	<div class="box">
 		<div id="brdtitle" class="inbox">
-			<h1><a href="index.php">your<span>forums</span></a></h1>
-			<div id="brddesc"><p><span>Get good. Get YourForums.</span></p></div>
+			<h1><a href="index.php">project<span>cyrex</span></a></h1>
+			<div id="brddesc"><p><span>Get good. Get project-cyrex.</span></p></div>
 		</div>
 		<div id="brdmenu" class="inbox">
 			<ul>
@@ -71,7 +71,7 @@
 <div id="brdfooter" class="block">
 	<div class="box">
 		<div class="inbox">
-			<p>YourForums 2018</p>
+			<p>project-cyrex 2018</p>
 			<ul>
 				<li><span><a href="tos.php">Terms and Conditions / Privacy policy</a></span></li>
 			</ul>
